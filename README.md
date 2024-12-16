@@ -30,7 +30,7 @@ Access our presentation slides [here](https://docs.google.com/presentation/d/1q_
 - Final input/output evaluations can be found at the bottom of [Final_Search_Query_Model.ipynb](https://github.com/jsmnlao/Google-2B-Search-Query-Recommendation-System/blob/main/Final_Search_Query_Model.ipynb)
 
 ## How to Run Training Python Code
-1. Clone repository: git clone https://github.com/jsmnlao/Google-2B-Search-Query-Recommendation-System.git OR Pull everything from git repo: git pull
+1. Clone repository: git clone https://github.com/paristchefor/Google-2B-Search-Query-Recommendation-System.git OR Pull everything from git repo: git pull
 2. Install the libraries from requirements: pip3 install -r requirements.txt
 3. Run the model for training: python [model.py](https://github.com/jsmnlao/Google-2B-Search-Query-Recommendation-System/blob/main/model.py)
 
